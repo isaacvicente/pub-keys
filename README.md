@@ -20,4 +20,5 @@ ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519_<category>_<app_or_service> -C "<mean
 
 In the `<meaningful_description>` part, describe the purporse of the key.
 
-> WARNING: only the public key **should** be available.
+> [!WARNING]
+> Only the public key **should** be available.
